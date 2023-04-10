@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Laptop Price Predictor</title>
+  <script>
+	var processorbrandObject = {
+	  "AMD": ['Athlon Dual Core',
+	 'Athlon Dual Core  - 11th Gen',
+	 'Dual Core',
+	 'Ryzen 3 Dual Core',
+	 'Ryzen 3 Dual Core  - 3rd Gen',
+	 'Ryzen 3 Hexa Core  - 4th Gen',
+	 'Ryzen 3 Quad Core',
+	 'Ryzen 5 Dual Core',
+	 'Ryzen 5 Dual Core  - 10th Gen',
+	 'Ryzen 5 Hexa Core',
+	 'Ryzen 5 Hexa Core  - 10th Gen',
+	 'Ryzen 5 Hexa Core  - 5th Gen',
+	 'Ryzen 5 Quad Core',
+	 'Ryzen 7 Dual Core  - 7th Gen',
+	 'Ryzen 7 Hexa Core',
+	 'Ryzen 7 Octa Core',
+	 'Ryzen 7 Octa Core  - 10th Gen',
+	 'Ryzen 7 Octa Core  - 4th Gen',
+	 'Ryzen 7 Octa Core  - 5th Gen',
+	 'Ryzen 7 Quad Core',
+	 'Ryzen 7 Quad Core  - 10th Gen',
+	 'Ryzen 9 Octa Core',
+	 'Ryzen 9 Octa Core  - 10th Gen',
+	 'Ryzen 9 Octa Core  - 5th Gen',
+	 'Ryzen 9 Octa Core  - 9th Gen'],
+	  "Apple": ['M1', 'M1 Max', 'M1 Pro', 'M2'],
+	  "Intel":['Celeron Dual Core',
+	 'Celeron Dual Core  - 10th Gen',
+	 'Celeron Dual Core  - 4th Gen',
+	 'Celeron Quad Core',
+	 'Core i3  - 10th Gen',
+	 'Core i3  - 11th Gen',
+	 'Core i3  - 12th Gen',
+	 'Core i5  - 10th Gen',
+	 'Core i5  - 11th Gen',
+	 'Core i5  - 12th Gen',
+	 'Core i5  - 5th Gen',
+	 'Core i5  - 7th Gen',
+	 'Core i5  - 8th Gen',
+	 'Core i5  - 9th Gen',
+	 'Core i7  - 10th Gen',
+	 'Core i7  - 11th Gen',
+	 'Core i7  - 12th Gen',
+	 'Core i7  - 6th Gen',
+	 'Core i7  - 7th Gen',
+	 'Core i7  - 8th Gen',
+	 'Core i7  - 9th Gen',
+	 'Core i9  - 10th Gen',
+	 'Core i9  - 11th Gen',
+	 'Core i9  - 12th Gen',
+	 'Core i9  - 8th Gen',
+	 'Hexa Core i5  - 10th Gen',
+	 'Pentium Gold',
+	 'Pentium Quad Core',
+	 'Pentium Quad Core  - 11th Gen',
+	 'Pentium Silver']
+	}
+	window.onload = function() {
+	  
+	  var processorbrandSel = document.getElementById("processorbrand");
+	  var processortypeSel = document.getElementById("processortype");
+	  for (var x in processorbrandObject) {
+		processorbrandSel.options[processorbrandSel.options.length] = new Option(x, x);
+	  }
+	  processorbrandSel.onchange = function() {
+	    //empty Chapters- and processortypes- dropdowns    
+	    processortypeSel.length = 1;
+		//display correct values
+		var z = processorbrandObject[this.value];	
+		for (var i = 0; i < z.length; i++) {
+		  processortypeSel.options[processortypeSel.options.length] = new Option(z[i], z[i]);
+	   
+		}
+	  }
+	   
+	}
+	</script>
+</head>
+
+<body>
+    <div class="headers" style="text-align: center;"><h1>Laptop Price Predictor</h1></div>
+       
+
+    
+	<div class="card" style="width: 100%; height: 100%; background-color:#B4C7E7;">
+			
+            <div class="card-header" style="text-align: center;">                				 
+                <br><br>
+                <center>
+                    <img src="/static/laptop.png"style="width:200px;height:150px;" >
+                </center>
+				 <h3> If you want to predict the price of Laptop in India. Then please fill the details below and click on Predict button.</h3>
+			</div><br>
+          
+
+			<!-- Main Input For Receiving Query to our ML -->
+			<div class="card-body" >
+				<form action="{{ url_for('predict')}}"method="post">
+					<div class="row" style=" display: grid; grid-template-columns: 1fr 1fr 1fr;">
+						
+						<div class="colA" style="text-align: center; font-size: 20px;">
+							<label><b>Brand</b>
+							<br>              
+							<input type="text" id ="brand" name="Brand" placeholder="Choose Brand" list="brandlist" style = "width: 150px;" required="required" >
+								<datalist id="brandlist">
+									<option value='ASUS'>					
+									<option value='DELL'>
+									<option value='HP'>
+									<option value='Lenovo'>
+									<option value='acer'>
+									<option value='MSI'>
+									<option value='APPLE'>
+									<option value='Infinix'>
+									<option value='GIGABYTE'>
+									<option value='Vaio'>
+									<option value= 'ALIENWARE'>
+									<option value='Avita'>
+									<option value='Nokia'>
+									<option value='Mi'>
+									<option value='realme'>
+									<option value='RedmiBook'>
+									<option value='MICROSOFT'>
+									<option value='Ultimus'>
+								</datalist>
+							</label>  <br><br> 
+						</div>
+								
+						<div class="colB" style="text-align: center;font-size: 20px;">
+                                                        <label><b>Processor </b>
+							<br>
+							<div style="font-size: 16px;">
+							<b>Brand </b><select name="processorbrand" id="processorbrand" style="width: 150px;  height:22px; color: #7A7076;">
+								<option value="" selected="selected">Processor brand</option>
+							  </select>
+							  </div>		
+							  <div style="font-size: 16px;">
+							<b>Type &nbsp; </b> <select name="processortype" id="processortype" style="width: 150px; height:22px; color: #7A7076;">
+								<option value="" selected="selected">Select brand first</option>
+							  </select>
+							</div>
+							</label><br><br>
+									
+						</div>
+								
+
+						<div class="colC" style="text-align: center;font-size: 20px;">
+							<label><b>Storage </b>
+							<br>
+							<div style="font-size: 16px;">
+							<b>SSD &nbsp;</b>
+                            <input type="text" name="Storage_SSD" placeholder="in GIGABYTE" list="ssdlist" required="required" >
+                                <datalist id="ssdlist">
+									<option value="128">
+									<option value="256">
+									<option value="512">
+									<option value="1024">
+									<option value="2048">										
+                                </datalist>
+							</div>
+							<div style="font-size: 16px;">
+							<b>HDD</b>
+							<input type="text" name="Storage_HDD" placeholder="in GIGABYTE" list="hddlist" required="required" >
+                                <datalist id="hddlist">
+									<option value="0">
+									<option value="256">
+									<option value="512">
+									<option value="1024">										
+                                </datalist>
+							</div>
+							</label><br><br>
+						</div>
+					</div>
+					
+					
+					<div class="row2" style=" display: grid; grid-template-columns: 1fr 1fr 1fr;">								
+						<div class="colA" style="text-align: center;font-size: 20px;">
+                                                        <label><b>Operating System</b>
+                                                        <br>       
+							<input type="text" name="OS" placeholder="Choose type of OS" list="oslist" style = "width: 150px;" required="required" >
+                                                                <datalist id="oslist">                                     
+                                                                        <option value="64 bit Windows 11"> 
+                                                                        <option value="64 bit Windows 10"> 
+                                                                        <option value="Windows 11"> 
+                                                                        <option value="Mac"> 
+                                                                        <option value="Windows 10"> 
+                                                                        <option value="DOS"> 
+                                                                        <option value="32 bit Windows 11">
+                                                                        <option value="64 bit Mac">
+                                                                        <option value="Chrome">
+                                                                        <option value="64 bit DOS">
+                                                                        <option value="64 bit Chrome">	
+                                                                </datalist>
+                                                        </label><br><br>
+                                                </div>
+					
+						<div class="colB" style="text-align: center;font-size: 20px;">
+											
+							<label><b>RAM</b>
+							<br>
+							<div style="font-size: 16px;">
+							<b>Size&nbsp;</b>
+							<input type="text" name="RAM_GB" placeholder="in GIGABYTE" list="ramblist" required="required" style="width: 150px;">
+								<datalist id="ramblist">
+									<option value="4">
+									<option value="8">
+									<option value="16">
+									<option value="32">									
+								</datalist>
+							</div>
+							<div style="font-size: 16px;">
+							<b>Type</b>
+							<input type="text" name="RAM_Type" placeholder="Choose type of RAM" list="ramtlist" required="required" style="width: 150px;">
+								<datalist id="ramtlist">                                  
+									<option value="DDR3">               
+									<option value="DDR4">
+									<option value="DDR5">
+									<option value="LPDDR3">                
+									<option value="LPDDR4">
+									<option value="LPDDR5">
+									<option value="LPDDR4X">
+									<option value="Unified Memory">                                                                       
+								</datalist>
+							</div>
+							</label><br><br>
+						</div>
+										
+						<div class="colC" style="text-align: center;font-size: 20px;">											
+							<label><b>Screen</b>
+							<br>
+							<div style="font-size: 16px;">
+							<b>Size&nbsp;</b>
+							<input type="number" name="Display_Size" placeholder="11.6 inch - 17.3 inch" min="11.6" max="17.3" step="0.1" style = "width: 160px;" required="required">   
+							</div>
+							<div style="font-size: 16px;">
+							<b>Type</b>
+							<input type="text" name="Display_Type" placeholder="Normal / Touchscreen" list="distypelist" required="required" >
+                                                                <datalist id="distypelist">
+                                                                        <option value="Normal">
+                                                                        <option value="Touchscreen">
+                                                                </datalist>
+							</div>
+							</label><br><br>
+						</div>
+										
+										     										
+					
+					</div>
+					
+					
+					<div class="row3" style=" display: grid; grid-template-columns: 1fr 1fr 1fr;">  
+                                                <div class="colA" style="text-align: center; font-size: 20px;">
+                                                        <label><b>Office</b>
+                                                        <br>
+                                                        <input type="text" name="Office" placeholder="Choose Office" list="officelist"  required="required" >
+                                                                <datalist id="officelist">
+                                                                        <option value="Not Available">
+                                                                        <option value="Office Home & Student 2019">
+                                                                        
+                                                                </datalist>
+                                                </div>
+
+
+
+                                                <div class="colB" style="text-align: center; font-size: 20px;">
+                                                        <label><b>Warranty</b>
+                                                        <br>
+                                                        <input type="text" name="Warranty" placeholder="in years" list="warrantylist"  style = "width: 180px;" required="required" >
+                                                                <datalist id="warrantylist">
+                                                                        <option value="1 Year Onsite Warranty">
+                                                                        <option value="1 Year International Travelers Warranty">
+                                                                        
+                                                                </datalist>
+                                                        </label>
+                                                </div>
+						
+                                                <div class="colm" style="text-align: center;">
+                                                        <button type="submit" class="btn btn-primary btn-block btn-large" 
+                                                        
+                                                                            style="text-align:center; font-size: 24px; padding: 70px; padding-top: 10px;padding-bottom: 10px;
+                                                                            background-color:blue; border-color: #B4C7E7; color: white; 
+                                                                            border-radius: 12px;">Predict</button>
+                                                                            	
+                                                </div>
+						
+
+					
+					</div>
+
+                                       
+                    
+				
+
+				
+					
+					
+				</form>
+				
+				
+			
+                	
+                <div class="predictor" style="text-align: center;color:blue;"><h2>{{ prediction_text }}</h2></div>
+        <br>
+        </div>
+</div>
+
+        <div class="creator" style="text-align: right;"><h5>Application made by Dhruv Bakshi </h5></div>
+</body>
+</html>
