@@ -1,0 +1,961 @@
+Brand,Processor_Brand,Processor_Type,Storage_SSD,Storage_HDD,RAM_GB,RAM_Type,OS,Display_Size,Display_Type,Office,Warranty,Price
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,49990
+Lenovo,Intel,Celeron Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,25990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,52990
+HP,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,35990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+DELL,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,,39990
+ASUS,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,45990
+acer,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,25990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+ASUS,Intel,Celeron Dual Core,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,23990
+ASUS,AMD,Ryzen 5 Hexa Core,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,48990
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,58490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+RedmiBook,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,39990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,69990
+ASUS,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,54990
+Lenovo,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,67800
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On,33599
+ASUS,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,38990
+HP,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,29990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,2 Year Onsite Warranty,37990
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,49123
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,35990
+HP,AMD,Athlon Dual Core,256,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,25990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+DELL,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,,41990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,41490
+Lenovo,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,76990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+RedmiBook,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,31990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,69990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,64990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+Lenovo,Intel,Core i3  - 10th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,31990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,58990
+HP,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,57990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+acer,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,47990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,55990
+DELL,AMD,Ryzen 3 Quad Core,256,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,,35990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+acer,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,31990
+Lenovo,Intel,Celeron Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,26990
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,52990
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+ASUS,Intel,Core i3  - 12th Gen,256,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,39990
+acer,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,39990
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,39990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,Intel,Core i3  - 11th Gen,256,,8,LPDDR4X,Windows 11,14,Touchscreen,Not Available,,44990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,46990
+APPLE,Apple,M2,256,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,111990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,AMD,Ryzen 5 Hexa Core,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,59990
+MSI,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,56990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,55990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,139990
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,57990
+Lenovo,AMD,Ryzen 3 Dual Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,37990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,61490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,59990
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,39490
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,64790
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,49390
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,,33990
+MSI,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,84990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55490
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+SAMSUNG,Qualcomm,Snapdragon 7c Gen 2,,,4,LPDDR4X,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,50499
+APPLE,Apple,M1,256,,16,DDR4,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,104990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+MSI,AMD,Ryzen 9 Octa Core  - 5th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,109990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,84990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,64990
+APPLE,Apple,M1,256,,8,DDR4,Mac,13.3,Normal,Not Available,,86990
+acer,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,51990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,72990
+Infinix,Intel,Core i3  - 11th Gen,512,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,33990
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,118990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,41990
+acer,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,55990
+DELL,Intel,Core i5  - 12th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,57990
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+Lenovo,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,61890
+ASUS,Intel,Core i3  - 11th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Not Available,,49990
+ASUS,Intel,Core i5  - 10th Gen,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,,60980
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,74990
+ASUS,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Touchscreen,Not Available,,44669
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,35990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Infinix,Intel,Core i3  - 10th Gen,256,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,30990
+Infinix,Intel,Core i3  - 11th Gen,256,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,30990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,54990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,76990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,66990
+ASUS,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,45990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,54990
+DELL,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,,41490
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,88990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,,27490
+Lenovo,AMD,Ryzen 7 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,65990
+ASUS,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,15.6,Normal,Not Available,1 Year Onsite Warranty,17990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,71990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,51990
+ASUS,Intel,Core i5  - 10th Gen,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,,60980
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i3  - 11th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Not Available,,49990
+Infinix,Intel,Core i3  - 11th Gen,256,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,30990
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,,80990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,87990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,60980
+ASUS,Intel,Pentium Quad Core,256,,8,DDR4,Windows 11,14.1,Normal,Office Home & Student 2021,1 Year Onsite Warranty,28990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,64990
+DELL,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,43990
+ASUS,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,76990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i5  - 10th Gen,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,65990
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Not Available,,83990
+APPLE,Apple,M2,256,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,111990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Infinix,Intel,Core i5  - 10th Gen,512,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,37990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,88990
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,135990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i5  - 11th Gen,256,1024 ,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,64990
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,45990
+HP,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,,27490
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Infinix,Intel,Core i5  - 10th Gen,512,,16,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,38990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,54990
+MSI,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,68490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+DELL,Intel,Core i5  - 12th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,57990
+Lenovo,AMD,Ryzen 7 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,65990
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,135990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,53990
+APPLE,Apple,M2,512,,16,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,150990
+realme,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Domestic Warranty,59990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,13.3,Normal,Not Available,,79890
+DELL,Intel,Pentium Silver,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32000
+ASUS,Intel,Core i5  - 10th Gen,512,,16,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,49490
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,,80990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,72490
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,33990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,35990
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,40990
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,62990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,56070
+DELL,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,42590
+DELL,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,96890
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,54990
+ASUS,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,50890
+APPLE,Apple,M2,256,,8,Unified Memory,Mac,13.6,Normal,Not Available,,111990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,45990
+DELL,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,36690
+acer,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,64990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,63990
+ASUS,AMD,Ryzen 7 Quad Core,512,,16,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,46990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,105990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+MSI,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Carry In Warranty,78990
+APPLE,Apple,M1 Max,1024,,32,Unified Memory,Mac,16.2,Normal,Not Available,1 Year Limited Warranty,307990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,2 Year Onsite Warranty,37990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+APPLE,Apple,M1,512,,16,DDR4,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,124990
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,17.3,Normal,Not Available,2 Year Onsite & Carry In Warranty,180890
+ASUS,Intel,Core i3  - 11th Gen,256,,8,LPDDR4X,Windows 11,14,Touchscreen,Not Available,,44990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,Intel,Core i5  - 11th Gen,256,1024 ,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,63990
+MSI,Intel,Core i9  - 12th Gen,2048,,32,DDR5,Windows 11,17.3,Normal,Not Available,2 Year Onsite & Carry In Warranty,319990
+ASUS,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,45990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+DELL,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,47990
+Lenovo,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Legion Ultimate Support + 1 Year Accidental Damage Protection,69990
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Carry In Warranty,46990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+APPLE,Apple,M1,512,,16,DDR4,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,129990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,90490
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,139990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+APPLE,Apple,M1 Pro,1024,,16,Unified Memory,Mac,16.2,Normal,Not Available,1 Year Limited Warranty,243990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,63990
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,40970
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,99990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,74990
+acer,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,57990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,2 Year Onsite Warranty,37990
+acer,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Carry In Warranty,46040
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,17.3,Normal,Not Available,1 Year Onsite Warranty,64590
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,69990
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 11,14,Normal,Not Available,3 Year Warranty,69390
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+ASUS,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,35990
+acer,AMD,Ryzen 3 Dual Core,512,,4,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,35499
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ALIENWARE,Intel,Core i7  - 10th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Complete Cover Warranty,214790
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,61990
+ASUS,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,45990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,16,Normal,Office Home & Student 2021,1 Year Onsite Warranty,57990
+Lenovo,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,,38790
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,16.1,Normal,Office Home & Student 2019,1 Year Onsite Warranty,79490
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,139990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,161990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,38490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,17.3,Normal,Not Available,1 Year Onsite Warranty,64590
+acer,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Carry In Warranty,46040
+ASUS,Intel,Core i3  - 11th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,49990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+DELL,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,60390
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,61990
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,45990
+ALIENWARE,Intel,Core i7  - 10th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Complete Cover Warranty,214790
+APPLE,Apple,M1,256,,16,DDR4,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,104990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,16,Normal,Office Home & Student 2021,1 Year Onsite Warranty,57990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,139990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,161990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+MSI,Intel,Hexa Core i5  - 10th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Onsite Warranty,53500
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,16.1,Normal,Office Home & Student 2019,1 Year Onsite Warranty,79490
+Infinix,Intel,Core i5  - 10th Gen,512,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,37990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.6,Normal,Not Available,,139990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+HP,Qualcomm,Snapdragon 7c Gen 2,,,8,DDR3,Chrome,11,Touchscreen,Not Available,1 Year Onsite Warranty,29690
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.3,Normal,Office Home & Student 2019,1 Year Onsite Warranty,71890
+DELL,Intel,Pentium Quad Core,256,,4,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,30690
+acer,AMD,Ryzen 5 Hexa Core,512,1024 ,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,99990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,Intel,Core i3  - 10th Gen,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year Carry In Warranty,29390
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,194990
+DELL,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,50090
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Athlon Dual Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,28990
+APPLE,Apple,M2 Pro,1024,,16,Unified Memory,Mac,16,Normal,Not Available,1 Year Limited Warranty,269900
+HP,Intel,Core i7  - 12th Gen,1024,,16,LPDDR4X,Windows 11,13.3,Touchscreen,Not Available,1 Year Onsite Warranty,109999
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+HP,Intel,Core i5  - 11th Gen,256,,8,DDR4,Chrome,14,Normal,Not Available,1 Year Onsite Warranty,56340
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,241990
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,281990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+APPLE,Apple,M2,512,,16,Unified Memory,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,159990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,90490
+Lenovo,Intel,Core i5  - 12th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,75990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+MSI,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Carry In Warranty,45490
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,81990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,65890
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+HP,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,14,Touchscreen,Not Available,1 Year Onsite Warranty,25990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,57390
+ASUS,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,57990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,57990
+HP,Intel,Celeron Dual Core,256,,8,DDR4,Windows 11,14,Normal,Not Available,,25490
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,66990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Infinix,Intel,Core i5  - 10th Gen,512,,16,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,38990
+MSI,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,129990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,49890
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,77070
+APPLE,Intel,Core i5  - 8th Gen,512,,8,DDR3,Mac,13.3,Normal,Not Available,1 Year Onsite Warranty,163990
+DELL,Intel,Core i3  - 10th Gen,,1024 ,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,41190
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Infinix,Intel,Core i7  - 10th Gen,512,,16,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,46990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,146990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,129990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,60900
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2021,2 Year Onsite Warranty,50990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,8,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,77990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,Intel,Core i7  - 12th Gen,512,,16,LPDDR4,Windows 11,13.3,Normal,Not Available,,90990
+MSI,Intel,Core i5  - 9th Gen,512,,16,DDR4,Windows 10,,Matrix,Not Available,2 Year Warranty,74990
+HP,Intel,Core i7  - 12th Gen,512,,16,LPDDR4X,Windows 11,16,Touchscreen,Not Available,1 Year Onsite Warranty,135990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Mi,Intel,Core i7  - 10th Gen,512,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Manufacturer Warranty,59990
+DELL,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,44190
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,94990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+SAMSUNG,Intel,Core i5  - 12th Gen,512,,16,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,69990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,LPDDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,89990
+ASUS,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,45990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+DELL,Intel,Core i9  - 11th Gen,1024,,32,DDR4,Windows 11,17.3,Normal,Not Available,,323990
+acer,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,73990
+HP,AMD,Ryzen 5 Quad Core,,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,54990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,174990
+HP,Intel,Core i9  - 12th Gen,2048,,32,DDR5,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,344736
+ASUS,Intel,Pentium Quad Core,256,,8,LPDDR4X,Windows 11,13.3,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,41990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,105822
+APPLE,Apple,M2 Pro,1024,,16,Unified Memory,Mac,14,Normal,Not Available,1 Year Limited Warranty,249900
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,114990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,158990
+HP,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,40290
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,114990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,51890
+HP,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,69490
+Infinix,Intel,Core i3  - 11th Gen,512,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,33990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,16.1,Normal,Office Home & Student 2021,1 Year Onsite Warranty,104990
+DELL,Intel,Core i7  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,123990
+HP,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,59990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,144990
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,229990
+HP,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,105822
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+DELL,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,40790
+DELL,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,101990
+Lenovo,AMD,Ryzen 7 Octa Core,1024,,16,DDR4,Windows 11,16,Normal,Office Home & Student 2019,3 Year Onsite Warranty + 3 Year Legion Ultimate Support + 1 Year Accidental Damage Protection,139990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,75490
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,43250
+GIGABYTE,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,65990
+realme,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Domestic Warranty,46990
+APPLE,Apple,M1 Pro,1024,,16,Unified Memory,Mac,14.2,Normal,Not Available,1 Year Limited Warranty,219990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,177990
+MSI,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Carry In Warranty,45490
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,67477
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,59490
+acer,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year International Travelers Warranty,29990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,Intel,Core i5  - 12th Gen,512,,16,LPDDR4X,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,85990
+APPLE,Apple,M2,256,,16,Unified Memory,Mac,13.3,Normal,Not Available,1 Year Limited Warranty,139990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,157990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,65390
+acer,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,156490
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,,68390
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+DELL,Intel,Core i3  - 10th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,45390
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,,95890
+DELL,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,54300
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,37990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,179990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,161990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,65359
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,70748
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,43500
+Lenovo,AMD,Dual Core,256,,4,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Warranty,27990
+Nokia,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,40990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,LPDDR5,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,159990
+Lenovo,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,76000
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,14,Touchscreen,Not Available,,86990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,60990
+ASUS,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,101490
+APPLE,Apple,M2 Pro,1024,,16,Unified Memory,Mac,14,Normal,Not Available,1 Year Limited Warranty,249900
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Infinix,Intel,Core i3  - 11th Gen,256,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,30990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,16.1,Normal,Not Available,1 Year Onsite Warranty,65750
+APPLE,Apple,M2,256,,16,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,14.96,Normal,Office Home & Student 2019,,70990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,LPDDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,89990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,16,Normal,Office Home & Student 2021,,76205
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+Lenovo,Intel,Core i3  - 10th Gen,256,,4,DDR4,Windows 11,14,Normal,Not Available,,37990
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,229990
+acer,AMD,Ryzen 7 Octa Core,256,1024 ,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,115990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+MSI,Intel,Core i7  - 12th Gen,1024,,32,DDR5,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,275990
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,77490
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,,34690
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,62990
+ASUS,Intel,Core i5  - 10th Gen,,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,3 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,83990
+MSI,Intel,Core i9  - 11th Gen,1024,,16,DDR4,Windows 10,16,Normal,Not Available,2 Year Onsite Warranty,210990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+HP,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,92395
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Normal,Not Available,,52990
+ASUS,AMD,Ryzen 7 Octa Core,2048,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,224990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,54790
+ASUS,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,41900
+DELL,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,66190
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,AMD,Ryzen 5 Quad Core,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,42990
+ASUS,AMD,Ryzen 7 Octa Core,2048,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,224990
+MSI,Intel,Core i7  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,76990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+acer,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,59990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+acer,AMD,Ryzen 3 Dual Core,512,,4,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,27990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+APPLE,Apple,M1 Pro,512,,16,Unified Memory,Mac,16.2,Normal,Not Available,1 Year Limited Warranty,222990
+ASUS,Intel,Core i9  - 12th Gen,1024,,16,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,181990
+acer,Intel,Core i5  - 7th Gen,128,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,129999
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+MSI,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,52990
+ASUS,Intel,Core i5  - 10th Gen,,1024 ,4,DDR4,Windows 10,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,61249
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,78990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 11,13.3,Touchscreen,Not Available,,87990
+HP,Intel,Core i7  - 12th Gen,512,,16,LPDDR4X,Windows 11,13.5,Normal,Not Available,1 Year Onsite Warranty,124990
+DELL,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,,68490
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,AMD,Ryzen 3 Dual Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,34190
+ASUS,Intel,Core i5  - 11th Gen,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,,85590
+ASUS,Intel,Core i5  - 11th Gen,256,1024 ,16,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,53990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+acer,Intel,Core i3  - 11th Gen,256,,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,39244
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,14,Normal,Not Available,,52290
+Lenovo,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 10,15,Normal,Office Home & Student 2019,1 Year Onsite Warranty,140131
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 7 Octa Core,1024,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,160990
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,140990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,69990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+DELL,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,43090
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,44990
+DELL,AMD,Ryzen 3 Dual Core,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,42190
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,Intel,Core i3  - 12th Gen,256,,8,DDR5,Windows 11,14,Touchscreen,Not Available,,56749
+MSI,Intel,Core i7  - 8th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,185790
+Infinix,Intel,Core i5  - 10th Gen,512,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,37990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,88990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,,79490
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+DELL,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,49890
+ASUS,Intel,Core i7  - 11th Gen,1024,,16,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,86990
+Lenovo,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,58990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+MSI,Intel,Core i7  - 10th Gen,1024,,32,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,214990
+MSI,Intel,Core i7  - 10th Gen,512,1024 ,32,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,156090
+HP,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,59890
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+MSI,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,16,Normal,Not Available,2 Year Onsite & Carry In Warranty,100990
+ASUS,Intel,Core i5  - 10th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,63980
+GIGABYTE,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Carry In Warranty,79990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i5  - 10th Gen,,1024 ,8,DDR4,DOS,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,69290
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,41990
+GIGABYTE,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,,74990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+MSI,Intel,Core i7  - 10th Gen,512,1024 ,32,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,156090
+HP,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,59890
+ASUS,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,62990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,74990
+DELL,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,42890
+Lenovo,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,109990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,16,Touchscreen,Not Available,1 Year Onsite Warranty,151990
+Lenovo,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,105990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,137990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+DELL,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,246490
+acer,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,57990
+HP,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 10,15.6,Normal,Office 2019 & Office 365,1 Year Onsite Warranty,52575
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+ASUS,AMD,Ryzen 9 Octa Core,2048,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,361990
+Lenovo,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,38990
+ASUS,AMD,Ryzen 9 Octa Core,2048,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,391990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+DELL,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,49890
+DELL,Intel,Core i7  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,129990
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,301990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,38999
+DELL,Intel,Pentium Quad Core,256,,4,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,35500
+RedmiBook,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,44990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,LPDDR5,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,114990
+DELL,Intel,Core i7  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,102107
+Lenovo,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,153890
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,LPDDR5,Windows 11,14.5,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,159990
+HP,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,16.1,Normal,Office Home & Student 2021,1 Year Onsite Warranty,155490
+Lenovo,Intel,Core i5  - 10th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,76090
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,94990
+ASUS,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,74990
+ASUS,AMD,Ryzen 5 Hexa Core,512,,16,LPDDR4X,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,91990
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+acer,Intel,Core i7  - 10th Gen,2048,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,150490
+ASUS,AMD,Ryzen 5 Hexa Core  - 10th Gen,512,,16,DDR4,Windows 11,16,Normal,Not Available,1 Year Warranty,54990
+ASUS,AMD,Ryzen 9 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,99990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+acer,Intel,Core i7  - 10th Gen,256,1024 ,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,104490
+acer,Intel,Core i5  - 8th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,100500
+acer,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,67990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,Intel,Core i9  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,151990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,16.1,Normal,Not Available,1 Year Onsite Warranty,56960
+ASUS,Intel,Core i9  - 12th Gen,1024,,16,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,219990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+Lenovo,Intel,Core i3  - 10th Gen,256,,4,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,2 Year Warranty,31990
+ALIENWARE,Intel,Core i9  - 10th Gen,1024,,32,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,345390
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,16.1,Normal,Office Home & Student 2019,1 Year Onsite Warranty,67329
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Warranty,37490
+ASUS,Intel,Core i9  - 12th Gen,1024,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,249990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,LPDDR5,Windows 11,14.5,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,124990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+DELL,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,158990
+acer,Intel,Pentium Silver,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year International Travelers Warranty,26490
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,55490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,105990
+ASUS,Intel,Pentium Quad Core,,1024 ,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,23490
+ASUS,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,62990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+acer,AMD,Ryzen 3 Dual Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,35990
+Infinix,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,47990
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,16,Normal,Not Available,,67490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+MSI,Intel,Core i9  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,120990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,DOS,14,Normal,Not Available,,37990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,79490
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,60990
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,54450
+ASUS,Intel,Core i5  - 10th Gen,512,,8,LPDDR3,Windows 10,13.3,Normal,Office Home & Student 2019,1 Year Onsite Warranty,79990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,13,Normal,Office Home & Student 2019,1 Year Onsite Warranty,59990
+Lenovo,Intel,Core i7  - 10th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Trial Only,1 Year Warranty + 1 Year Legion Ultimate Support + 1 Year Accidental Damage Protection,86490
+ASUS,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,69990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+Lenovo,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On,35499
+DELL,Intel,Core i3  - 10th Gen,,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,42990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,127990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+Lenovo,AMD,Ryzen 3 Dual Core,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Warranty,37990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,73890
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,52490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,148568
+APPLE,Intel,Core i5  - 5th Gen,128,,8,DDR3,Mac,13.3,Normal,Not Available,1 Year Carry In Warranty,74490
+GIGABYTE,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Carry In Warranty,193990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,16,Normal,Not Available,2 Year Onsite & Carry In Warranty,114990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Warranty,95063
+ASUS,Intel,Core i3  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Touchscreen,Not Available,,43990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,22390
+DELL,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,89590
+ASUS,Intel,Core i5  - 10th Gen,,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,62490
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+DELL,Intel,Core i3  - 10th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,46400
+Infinix,Intel,Core i3  - 10th Gen,256,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,30990
+acer,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,61920
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+DELL,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,146990
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,14,Touchscreen,Not Available,,76490
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR5,Windows 11,15.6,Normal,Not Available,,81490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,66390
+APPLE,Apple,M2,256,,16,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,84990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Lenovo,Intel,Core i7  - 10th Gen,512,,8,LPDDR4X,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,95490
+HP,Intel,Core i7  - 12th Gen,512,,16,LPDDR4X,Windows 11,13.3,Touchscreen,Not Available,1 Year Onsite Warranty,104990
+ASUS,Intel,Core i9  - 8th Gen,1024,,16,DDR4,Windows 10,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,209690
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,AMD,Ryzen 9 Octa Core,1024,,32,LPDDR5,Windows 11,13.4,Touchscreen,Office Home & Student,1 Year Onsite Warranty,171990
+acer,AMD,Ryzen 3 Dual Core,,1024 ,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,34630
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,41990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+Lenovo,Intel,Core i3  - 11th Gen,,1024 ,4,DDR4,DOS,15,Normal,Not Available,1 Year Onsite Warranty,33990
+DELL,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,14.96,Normal,Office Home & Student 2021,1 Year Onsite Warranty,42690
+MSI,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,,Matrix,Not Available,2 Year Onsite Warranty,59990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+APPLE,Apple,M2,256,,16,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+DELL,Intel,Core i7  - 12th Gen,1024,,32,DDR5,Windows 11,17.3,Normal,Not Available,,300490
+acer,Intel,Core i7  - 12th Gen,2048,,32,LPDDR5,Windows 11,16,Normal,Not Available,1 Year International Travelers Warranty,229990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+ASUS,Intel,Core i9  - 12th Gen,4096,,32,DDR5,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,479990
+HP,AMD,Ryzen 9 Octa Core,1024,,32,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,177276
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,DOS,15.6,Normal,Not Available,2 Year Warranty,37990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,DOS,15.6,Normal,Not Available,2 Year Warranty,37990
+MSI,Intel,Core i7  - 10th Gen,512,,16,DDR4,Windows 10,14,Normal,Not Available,1 Year Carry In Warranty,74990
+DELL,Intel,Core i3  - 12th Gen,512,,8,DDR5,Windows 11,14,Touchscreen,Not Available,,64490
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Lenovo,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 11,16,Normal,Not Available,3 Year Onsite Warranty + 3 Year Legion Ultimate Support + 1 Year Accidental Damage Protection,157990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,109990
+MSI,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,43990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,Intel,Celeron Dual Core,256,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,25999
+ASUS,AMD,Ryzen 9 Octa Core  - 9th Gen,1024,,16,DDR4,Windows 11,16,Normal,Office Home & Student 2019,1 Year Onsite Warranty,130500
+ASUS,Intel,Core i7  - 10th Gen,1024,,32,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,234990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+MSI,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 10,,Matrix,Not Available,1 Year Onsite Warranty,74990
+Lenovo,Intel,Celeron Dual Core,,,4,DDR4,Chrome,14,Normal,Not Available,1 Year Carry In Warranty,18890
+acer,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,135990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+ASUS,Intel,Core i7  - 10th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,87390
+Lenovo,Intel,Core i3  - 10th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,2 Year Onsite Warranty,38980
+ASUS,Intel,Celeron Dual Core,128,,4,DDR4,Windows 11,11.6,Touchscreen,Not Available,1 Year Onsite Warranty,29990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,84990
+DELL,Intel,Core i5  - 10th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,,77990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,96579
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,74790
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,61500
+HP,AMD,Ryzen 5 Quad Core,,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,40264
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,42490
+acer,Intel,Core i7  - 6th Gen,128,1024 ,16,DDR4,Windows 10,15.6,Normal,Office Trial Only,1 Year International Travelers Warranty,116640
+Lenovo,AMD,Ryzen 5 Hexa Core,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,62490
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i5  - 8th Gen,512,,8,LPDDR3,Windows 10,13.3,Normal,Not Available,1 Year Onsite Warranty,74490
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,60090
+Vaio,Intel,Core i5  - 8th Gen,512,,8,DDR4,Windows 10,14,Normal,Office 365,2 Year Onsite Warranty,62890
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,67690
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Warranty,73990
+ASUS,Intel,Core i9  - 12th Gen,1024,,16,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,304980
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+HP,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,40960
+Lenovo,AMD,Athlon Dual Core,256,,4,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,20990
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,57750
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+HP,Intel,Core i5  - 8th Gen,256,,8,DDR3,Windows 10,13.3,Normal,Not Available,1 Year Onsite Warranty,69990
+ASUS,AMD,Ryzen 3 Dual Core,256,,4,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,26990
+acer,Intel,Pentium Quad Core,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,37990
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+MSI,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,58490
+HP,AMD,Ryzen 3 Quad Core,512,,8,DDR4,DOS,14,Normal,Not Available,,27490
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,53690
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,32,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,284990
+ASUS,AMD,Ryzen 9 Octa Core,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,105990
+Lenovo,Intel,Celeron Dual Core,,,4,LPDDR4X,Chrome,11.6,Touchscreen,Not Available,1 Year Onsite Warranty,28490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i7  - 10th Gen,2048,,16,LPDDR3,Windows 10,14,Normal,Not Available,3 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,233990
+MSI,Intel,Core i7  - 10th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Onsite Warranty,63990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,72890
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i7  - 12th Gen,512,,16,DDR5,Windows 11,16,Normal,Office Home & Student,1 Year Onsite Warranty,174990
+HP,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,,62180
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On,49490
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Lenovo,Intel,Core i5  - 4th Gen,,1024 ,8,DDR3,Windows 8,15.6,Normal,Not Available,1 Year Warranty,52490
+ASUS,AMD,Ryzen 7 Dual Core  - 10th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,88687
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,147990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+Lenovo,Intel,Core i3  - 10th Gen,256,,4,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,40200
+DELL,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 10,13.3,Normal,Office Home & Student 2019,,109990
+MSI,Intel,Core i5  - 10th Gen,,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Warranty For Gaming,54450
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,61990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,40699
+ASUS,Intel,Core i7  - 8th Gen,512,,16,DDR3,Windows 10,13.3,Normal,Not Available,1 Year Onsite Warranty,99990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+DELL,Intel,Core i7  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,,104990
+acer,Intel,Core i9  - 11th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,148490
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,84990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i5  - 10th Gen,512,,8,LPDDR3,Windows 10,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,109990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,32,LPDDR4X,Windows 10,13.4,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,214990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,98990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+Vaio,AMD,Ryzen 7 Quad Core,512,,8,DDR4,Windows 10,15.6,Normal,Office 365,2 Year Onsite Warranty,57990
+ASUS,Intel,Core i7  - 7th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,146490
+ASUS,Intel,Core i7  - 10th Gen,1024,,16,LPDDR3,Windows 10,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,154990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+acer,Intel,Core i7  - 10th Gen,2048,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,159990
+acer,Intel,Core i7  - 7th Gen,256,,8,DDR3,Windows 10,14,Touchscreen,Not Available,1 Year International Travelers Warranty,119990
+ASUS,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,35990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,68866
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR5,Windows 11,15.6,Normal,Office Home & Student 2021,,74990
+HP,AMD,Ryzen 3 Quad Core,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,44900
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,88990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,,109490
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,76900
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+Lenovo,Intel,Core i3  - 10th Gen,,1024 ,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,39200
+MSI,Intel,Core i7  - 12th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Carry In Warranty,114990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,32,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,177900
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,74990
+acer,Intel,Core i7  - 11th Gen,1024,,16,LPDDR4X,Windows 10,14,Touchscreen,Not Available,1 Year International Travelers Warranty,97938
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,16,Touchscreen,Not Available,,87500
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,AMD,Ryzen 7 Octa Core,1024,,8,LPDDR4X,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,74990
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,75990
+Lenovo,Intel,Core i7  - 8th Gen,512,,8,DDR4,Windows 10,13.3,Normal,Office Home & Student 2016,1 Year Onsite Warranty,86000
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Lenovo,AMD,Athlon Dual Core,256,,4,DDR4,DOS,14,Normal,Not Available,1 Year Onsite Warranty,18990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,55690
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,149990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+ASUS,Intel,Core i7  - 10th Gen,1024,,32,DDR4,Windows 10,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,224990
+APPLE,Apple,M2,512,,8,Unified Memory,Mac,13.6,Normal,Not Available,1 Year Limited Warranty,131990
+DELL,AMD,Ryzen 5 Quad Core,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,,52990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,75370
+DELL,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Onsite Warranty,49690
+DELL,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,16,Normal,Office Home & Student 2021,,69160
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,AMD,Ryzen 7 Octa Core  - 10th Gen,512,,16,DDR4,Windows 11,17.3,Normal,Not Available,,103658
+acer,Intel,Core i5  - 8th Gen,512,,8,DDR3,Windows 10,14,Normal,Not Available,1 Year International Travelers Warranty,69351
+ASUS,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,104990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,3 Year Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,84990
+acer,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year International Travelers Warranty,74999
+acer,Intel,Core i5  - 7th Gen,256,,8,DDR3,Windows 10,13.3,Normal,Office Home & Student 2016,1 Year International Travelers Warranty,86867
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+DELL,Intel,Core i3  - 11th Gen,256,1024 ,4,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,44290
+ASUS,AMD,Ryzen 5 Dual Core  - 5th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Manufacturer Warranty,61990
+Infinix,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,42990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Lenovo,Intel,Core i5  - 8th Gen,512,,8,DDR4,Windows 10,13.3,Normal,Office Home & Student 2016,1 Year Onsite Warranty,74990
+DELL,Intel,Core i7  - 12th Gen,1024,,32,DDR5,Windows 11,14,Normal,Not Available,,209990
+ASUS,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,41990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+APPLE,Apple,M2 Pro,512,,16,Unified Memory,Mac,16,Normal,Not Available,1 Year Limited Warranty,249900
+ASUS,AMD,Ryzen 5 Hexa Core,1024,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,60990
+MSI,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 10,,Matrix,Not Available,2 Year Warranty,180990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,71900
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,,66490
+Lenovo,Intel,Core i5  - 8th Gen,,2048 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2016,1 Year Onsite Warranty,64821
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+MSI,Intel,Core i7  - 8th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,149990
+ASUS,Intel,Core i9  - 12th Gen,2048,,32,DDR5,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,304990
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,58500
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,Intel,Core i7  - 10th Gen,512,,16,LPDDR3,Windows 10,13.3,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,239759
+ASUS,Intel,Core i7  - 12th Gen,512,,16,LPDDR5,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,107331
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,54999
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,71999
+DELL,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,67190
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,41990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+HP,Intel,Core i5  - 11th Gen,512,,16,LPDDR4X,Windows 10,13.5,Touchscreen,Not Available,1 Year Onsite Warranty,111990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,70990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,35,Normal,Office Home & Student 2019,1 Year Onsite Warranty,59990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,73070
+LG,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,17,Normal,Not Available,,101299
+ASUS,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,16,Touchscreen,Office Home & Student,1 Year Onsite Warranty,187990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+DELL,AMD,Ryzen 3 Dual Core  - 3rd Gen,256,,8,DDR4,Windows 10,15.6,Normal,Not Available,,43490
+ASUS,Intel,Celeron Dual Core  - 4th Gen,,,4,DDR4,Windows 10,11.6,Normal,Not Available,1 Year Onsite Warranty,20990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,32,LPDDR4X,Windows 10,13.4,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,234990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+MSI,Intel,Core i7  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Warranty,80590
+HP,Intel,Core i3  - 11th Gen,,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,42990
+Lenovo,Intel,Celeron Dual Core,256,,4,DDR4,Windows 11,11.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,25490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,AMD,Ryzen 5 Hexa Core,,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Trial Only,1 Year Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,56990
+ASUS,Intel,Celeron Dual Core,,,4,DDR4,Windows 11,11.6,Normal,Not Available,,24990
+ASUS,AMD,Ryzen 7 Quad Core  - 10th Gen,1024,,16,DDR4,Windows 11,15.6,Normal,Not Available,,115736
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,60790
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,16,Touchscreen,Office Home & Student 2021,,88324
+ASUS,Intel,Core i9  - 12th Gen,1024,,16,LPDDR5,Windows 11,13.4,Touchscreen,Not Available,1 Year Onsite Warranty,191990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+DELL,Intel,Core i3  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,41990
+DELL,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,14,Normal,Not Available,,61088
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,,124990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,AMD,Ryzen 3 Quad Core,256,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,,50852
+Lenovo,Intel,Core i3  - 10th Gen,256,,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,37890
+Lenovo,AMD,Ryzen 5 Hexa Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50850
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+acer,Intel,Core i5  - 8th Gen,256,,8,DDR3,Windows 10,14,Touchscreen,Office Home & Student 2016,1 Year International Travelers Warranty,81998
+DELL,Intel,Core i7  - 8th Gen,512,,16,DDR3,Windows 10,13.3,Normal,Office Home & Student 2016,1 Year Onsite Warranty,122490
+ASUS,Intel,Core i9  - 10th Gen,1024,,32,DDR4,Windows 10,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,269990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+ASUS,Intel,Core i3  - 10th Gen,,1024 ,4,DDR4,DOS,14,Normal,Not Available,1 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,32990
+acer,Intel,Core i5  - 9th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,57090
+HP,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,68200
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Warranty,104405
+Lenovo,Intel,Core i5  - 9th Gen,256,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,64390
+Lenovo,Intel,Core i7  - 9th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Not Available,3 Year Onsite Warranty,231400
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,LPDDR5,Windows 11,15.6,Normal,Not Available,,143918
+DELL,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Office,,108890
+HP,Qualcomm,Snapdragon 7c Gen 2,,,8,LPDDR4X,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,23990
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+ASUS,Intel,Celeron Dual Core  - 10th Gen,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year Warranty,24540
+DELL,AMD,Ryzen 5 Dual Core,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,41790
+DELL,Intel,Core i3  - 10th Gen,256,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,43590
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+HP,AMD,Athlon Dual Core,256,,4,DDR4,DOS,15.6,Normal,Not Available,1 Year Onsite Warranty,25612
+Avita,Intel,Core i5  - 10th Gen,256,,8,DDR4,Windows 10,14,Normal,Not Available,1.5 Year Warranty + 0.5 Year Extended Warranty,38476
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Office 2019 & Office 365,1 Year Onsite Warranty,51490
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,Intel,Core i7  - 11th Gen,1024,,16,DDR4,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,111890
+DELL,Intel,Core i5  - 8th Gen,,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Limited Hardware Warranty + In Home Service After Remote Diagnosis,45126
+GIGABYTE,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Carry In Warranty,94990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+HP,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Office 2019 & Office 365,1 Year Onsite Warranty,51490
+ASUS,Intel,Core i7  - 12th Gen,1024,,16,LPDDR5,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,129990
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,16,Normal,Not Available,1 Year Onsite Warranty,59990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+acer,Intel,Core i5  - 8th Gen,,1024 ,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2016,1 Year International Travelers Warranty,59990
+DELL,Intel,Core i5  - 5th Gen,,1024 ,8,DDR3,Windows 10,15.6,Touchscreen,Not Available,1 Year Onsite Warranty,68990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,44650
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Warranty,95063
+ASUS,AMD,Ryzen 7 Octa Core,512,,8,DDR4,Windows 11,17.3,Normal,Not Available,1 Year Onsite Warranty,70990
+DELL,Intel,Core i7  - 12th Gen,512,,16,DDR5,Windows 11,13.3,Normal,Not Available,,113104
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+Lenovo,Intel,Core i7  - 8th Gen,512,,16,DDR4,Windows 10,14,Normal,Not Available,3 Year Onsite Warranty,244801
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,99990
+HP,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,125680
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+ASUS,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,68500
+DELL,Intel,Core i5  - 10th Gen,512,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,,78990
+DELL,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,45490
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+HP,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,61890
+Lenovo,AMD,Ryzen 5 Hexa Core,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50850
+HP,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,13.3,Touchscreen,Not Available,1 Year Onsite Warranty,127000
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+acer,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year International Travelers Warranty,61990
+HP,AMD,Ryzen 7 Octa Core,1024,,16,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,143890
+ASUS,Intel,Core i7  - 8th Gen,512,,8,LPDDR3,Windows 10,13.3,Normal,Not Available,1 Year Onsite Warranty,85490
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+MSI,Intel,Core i7  - 9th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,66990
+HP,AMD,APU Dual Core A9,,1024 ,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Onsite Warranty,25990
+DELL,Intel,Core i9  - 10th Gen,1024,,16,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,206490
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+DELL,Intel,Core i3  - 10th Gen,256,,8,DDR4,Windows 10,14.96,Normal,Office Home & Student 2019,1 Year Onsite Warranty,41890
+acer,Intel,Core i5  - 8th Gen,256,,8,DDR4,Windows 10,13.3,Normal,Not Available,1 Year International Travelers Warranty,59434
+DELL,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,41490
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+ASUS,AMD,Ryzen 9 Octa Core,1024,,32,DDR5,Windows 11,16,Touchscreen,Not Available,1 Year Onsite Warranty,261990
+ASUS,Intel,Celeron Dual Core,,,4,DDR4,Windows 11,11.6,Normal,Not Available,,21990
+Lenovo,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,57990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,14,Touchscreen,Office Home & Student 2021,1 Year Onsite Warranty,89890
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15,Normal,Not Available,2 Year Onsite Warranty,47500
+DELL,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,,69899
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+DELL,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,61202
+HP,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,13.3,Normal,Office Home & Student 2019,1 Year Onsite Warranty,79990
+ASUS,Intel,Core i7  - 10th Gen,1024,,16,LPDDR3,Windows 10,14,Normal,Not Available,3 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,165990
+ASUS,Intel,Core i3  - 10th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Warranty,32990
+acer,Intel,Core i7  - 11th Gen,512,1024 ,16,DDR4,Windows 10,15.6,Normal,Not Available,1 Year International Travelers Warranty,115990
+MSI,Intel,Core i5  - 9th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Carry In Warranty,58499
+Lenovo,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,74990
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+acer,Intel,Celeron Dual Core,,,4,DDR4,Chrome,11.6,Normal,Not Available,1 Year International Travelers Warranty,24489
+ASUS,Intel,Core i7  - 10th Gen,,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,3 Year Manufacturer Warranty On The Device + 0.5 Year Manufacturer Warranty On Included Accessories,93990
+ASUS,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,11.6,Normal,Not Available,,18990
+HP,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2021,1 Year Onsite Warranty,40990
+HP,Intel,Core i7  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,101788
+ASUS,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,45490
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,116180
+ASUS,Intel,Core i5  - 12th Gen,512,,8,DDR5,Windows 11,15.6,Normal,Office Home & Student,1 Year Onsite Warranty,76990
+Lenovo,AMD,Ryzen 3 Hexa Core,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,37490
+Lenovo,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,14,Touchscreen,Not Available,1 Year Onsite Warranty,28490
+ASUS,AMD,Ryzen 9 Octa Core,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty,189990
+MSI,Intel,Core i5  - 12th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite & Carry In Warranty,52990
+DELL,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,,55490
+DELL,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office,,70890
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,67989
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,AMD,Ryzen 5 Quad Core,512,,8,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,45490
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,69900
+Lenovo,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,14,Touchscreen,Not Available,1 Year Onsite Warranty,28490
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+ASUS,Intel,Celeron Dual Core,,,4,LPDDR4,Chrome,11.6,Normal,Not Available,,18990
+Nokia,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,47990
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,67989
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+ASUS,Intel,Celeron Dual Core  - 10th Gen,256,,4,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,24540
+DELL,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,15.6,Normal,Office,,70890
+ASUS,Intel,Core i3  - 10th Gen,512,,4,DDR4,Windows 10,14,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,43990
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+ASUS,Intel,Core i7  - 8th Gen,256,1024 ,8,DDR4,Windows 10,14,Normal,Not Available,1 Year Limited International Hardware Warranty,67990
+HP,Intel,Core i3  - 10th Gen,,1024 ,4,DDR4,Windows 10,15.6,Normal,Office Home & Student 2019,1 Year Onsite Warranty,41990
+MICROSOFT,Intel,Core i5  - 10th Gen,128,,8,LPDDR4X,Windows 10,13,Touchscreen,Not Available,1 Year Limited Hardware Warranty,100690
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+HP,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,16.1,Normal,Not Available,1 Year Onsite Warranty,144480
+HP,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,14,Touchscreen,Not Available,1 Year Onsite Warranty,85871
+MSI,Intel,Core i5  - 9th Gen,,1024 ,8,DDR4,Windows 10,15.6,Normal,Not Available,2 Year Warranty For Gaming,62190
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+HP,Intel,Core i5  - 10th Gen,512,,8,DDR4,Windows 10,13.3,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,81990
+DELL,Intel,Core i7  - 12th Gen,1024,,16,DDR5,Windows 11,15.6,Normal,Not Available,,147490
+HP,Intel,Core i3  - 10th Gen,,1024 ,4,DDR4,Windows 10,15.6,Normal,Not Available,1 Year Limited Warranty,39643
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
+ASUS,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 10,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,72990
+Ultimus,Intel,Celeron Dual Core,256,,4,LPDDR4,Windows 11,15.6,Normal,Not Available,1 Year Domestic Warranty,23990
+DELL,Intel,Core i5  - 11th Gen,256,1024 ,8,DDR4,Windows 11,15.6,Normal,Not Available,,62890
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,32890
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 10,14,Normal,Office Home & Student 2019,1 Year Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,65999
+DELL,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,1 Year Onsite Premium Support,67990
+Lenovo,AMD,Athlon Dual Core,,1024 ,4,DDR4,DOS,14,Normal,Not Available,1 Year Onsite Warranty,18990
+Lenovo,Intel,Core i3  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Office Home & Student 2021,2 Year Onsite Warranty,37248
+HP,AMD,Ryzen 7 Octa Core,1024,,16,DDR4,Windows 11,13.3,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,84690
+HP,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,14,Normal,Not Available,1 Year Onsite Warranty,82000
+HP,Intel,Celeron Dual Core,,,4,DDR4,Chrome,14,Touchscreen,Not Available,1 Year Onsite Warranty,29999
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,52990
+acer,Intel,Core i5  - 11th Gen,256,1024 ,16,DDR4,Windows 10,14,Normal,Not Available,1 Year International Travelers Warranty,62490
+DELL,AMD,Ryzen 7 Octa Core,512,,16,DDR4,Windows 11,14,Normal,Not Available,,89976
+DELL,Intel,Core i5  - 12th Gen,512,,16,DDR4,Windows 11,16,Touchscreen,Office Home & Student 2021,,88324
+Lenovo,Intel,Core i5  - 11th Gen,512,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,50990
+ASUS,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 11,13.3,Normal,Not Available,,65900
+ASUS,Intel,Pentium Quad Core,256,,8,DDR4,Windows 11,14,Normal,Office Home & Student 2019,1 Year Onsite Warranty,33900
+DELL,AMD,Ryzen 5 Hexa Core,512,,8,DDR4,Windows 11,16,Normal,Office Home & Student 2021,,63331
+Lenovo,Intel,Core i3  - 11th Gen,256,,8,DDR4,Windows 11,15.6,Normal,Not Available,1 Year Carry In Warranty,34990
+HP,AMD,Ryzen 5 Hexa Core,512,,16,DDR4,Windows 11,13.3,Touchscreen,Office Home & Student 2019,1 Year Onsite Warranty,83499
+DELL,Intel,Core i5  - 11th Gen,512,,8,LPDDR4X,Windows 10,13.3,Normal,Not Available,1 Year Onsite Warranty,65999
+Lenovo,AMD,APU Dual Core A6  - 7th Gen,,1024 ,4,DDR4,DOS,15.6,Normal,Not Available,1 Year Onsite Warranty,22000
+Lenovo,Intel,Core i5  - 11th Gen,512,,16,DDR4,Windows 11,15.6,Normal,Not Available,2 Year Onsite Warranty,55990
